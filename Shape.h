@@ -6,15 +6,14 @@
 //============================================================
 
 //=====================Include Dependency=====================
-#include <iostream>
 #include <string>
-//============================================================
+//==================    ==========================================
 using namespace std;
 
 class Shape
 {
 protected:
-    //Atributes
+    //Attributes
     string color, nameShape;
     int numSide;
 

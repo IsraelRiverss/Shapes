@@ -1,11 +1,12 @@
-//=====================Include Dependency=====================
-#include <iostream>
 #include <string>
+#include <iostream>
 #include "Shape.cpp"
 #include "Square.cpp"
 
-//============================================================
+using namespace std;
+
 int main() {
+    Square Square1("red", "Square", 4, 0.0, 0.0, 0.0);
     string x, y;
     int z;
     double w;
@@ -18,7 +19,7 @@ int main() {
     cout << "length of the sides of the Shape: " << endl;
     cin >> w;
 
-    Square Square1(x, y, z, w, 0.0, 0.0);
-    cout << "Name of the Shape: " << Square1.getNameShape() << endl;
+
+
     return 0;
 }

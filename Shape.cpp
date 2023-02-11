@@ -1,14 +1,10 @@
-//
-// Created by irios on 2/10/2023.
-//
-
 #include "Shape.h"
 //Methods
 //Constructor
-Shape::Shape(string _color, string _nameShape, int _numside) {
+Shape::Shape(string _color, string _nameShape, int _numSide) {
     color = _color;
     nameShape = _nameShape;
-    numSide = _numside;
+    numSide = _numSide;
 }
 
 //Setters
