@@ -19,7 +19,7 @@ protected:
 
 public:
 //Methods
-    Square(string _color, string _nameShape, int _numSide, double _legthSide, double _perimeter, double _area); //Constructor
+    Square(string _color, string _nameShape, int _numSide, double _legthSide); //Constructor
 
 //Setters
     void setLenghtSide(double _lengthSide);
