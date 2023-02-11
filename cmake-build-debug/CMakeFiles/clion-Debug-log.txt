@@ -1,0 +1,4 @@
+C:\Users\irios\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-1\231.6890.13\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/irios/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/231.6890.13/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\irios\Proyects\Shapes -B C:\Users\irios\Proyects\Shapes\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/irios/Proyects/Shapes/cmake-build-debug

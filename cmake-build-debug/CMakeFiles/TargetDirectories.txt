@@ -1,0 +1,3 @@
+C:/Users/irios/Proyects/Shapes/cmake-build-debug/CMakeFiles/Shapes.dir
+C:/Users/irios/Proyects/Shapes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/irios/Proyects/Shapes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+# ninja log v5
+12	404	6977512231252953	CMakeFiles/Shapes.dir/Shape.cpp.obj	d30db42946152518
+6	406	6977512231252953	CMakeFiles/Shapes.dir/Square.cpp.obj	576453fa1a5e4f5a
+11	305	6977799929194393	CMakeFiles/Shapes.dir/Square.cpp.obj	576453fa1a5e4f5a
+3	293	6977842476112041	CMakeFiles/Shapes.dir/main.cpp.obj	ca66a57f704f7dd9
+3	188	6977842902121944	CMakeFiles/Shapes.dir/Shape.cpp.obj	d30db42946152518
+189	450	6977842904698853	Shapes.exe	9b8472b8797d4054
+8	318	6977865085773338	CMakeFiles/Shapes.dir/Square.cpp.obj	576453fa1a5e4f5a
