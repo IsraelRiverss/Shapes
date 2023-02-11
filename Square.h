@@ -1,9 +1,6 @@
 //=========================Guard==============================
 #ifndef SHAPES_SQUARE_H
 #define SHAPES_SQUARE_H
-
-#endif //SHAPES_SQUARE_H
-//============================================================
 //=====================Include Dependency=====================
 #include <iostream>
 #include <string>
@@ -17,10 +14,12 @@ class  Square: public Shape
 protected:
 //Atributes
     double lengthSide, perimeter, area;
+    double perimeter = 0.0;
+    double area = 0.0;
 
 public:
 //Methods
-    Square(string _color, string _nameShape, int _numSide, double _legthSide, double _perimeter, double _area); //Constructor
+    Square(string _color, string _nameShape, int _numSide, double _legthSide); //Constructor
 
 //Setters
     void setLenghtSide(double _lengthSide);
@@ -37,3 +36,4 @@ public:
 //Calculate the figure area
     double calculateArea();
 };
+#endif //SHAPES_SQUARE_H

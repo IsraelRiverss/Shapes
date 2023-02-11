@@ -4,13 +4,11 @@
 //============================================================
 //Methods
 //Constructor
-Square::Square(string _color, string _nameShape, int _numSide, double _legthSide, double _perimeter, double _area) : Shape(_color, _nameShape, _numSide) {
+Square::Square(string _color, string _nameShape, int _numSide, double _legthSide) : Shape(_color, _nameShape, _numSide) {
     color = _color;
     nameShape = _nameShape;
     numSide = _numSide;
     lengthSide = _legthSide;
-    perimeter = _perimeter;
-    area = _area;
 }
 
 //Setters
