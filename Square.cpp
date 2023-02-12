@@ -52,7 +52,7 @@ double Square::calculatePerimeterSquare() {
 }
 //Methods that make the operations to calculate the area of a square
 double Square::calculateAreaSquare() {
-    area = sqrt(lengthSide);
-    return lengthSide;
+    area = lengthSide*lengthSide;
+    return area;
 }
 
