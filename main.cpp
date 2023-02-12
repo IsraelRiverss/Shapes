@@ -6,14 +6,14 @@ int main(){
     string x, y;
     int z;
     double w;
-    cout << "Enter name of the shape: " << endl;
-    cin >> x;
-    cout << "Enter color of the shape: " << endl;
-    cin >> y;
-    cout << "Enter number of side of the shape: " << endl;
-    cin >> z;
-    cout << "Enter length of the sides of the shape: " << endl;
-    cin >> w;
+    cout << "Enter name of the shape: "; cin >> x;
+    cout << endl;
+    cout << "Enter color of the shape: " << endl; cin >> y;
+    cout << endl;
+    cout << "Enter number of side of the shape: " << endl; cin >> z;
+    cout << endl;
+    cout << "Enter length of the sides of the shape: " << endl; cin >> w;
+    cout << endl;
 
     Square Square_1 = Square(x,y,z,w);
     cout << "Name of the shape: " << Square_1.getNameShape() << endl;
