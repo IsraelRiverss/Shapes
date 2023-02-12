@@ -16,7 +16,7 @@ int main(){
     cout << "Color of the shape: " << Square_1.getColorShape() << endl;
     cout << "Number of sides of the shape: " << Square_1.getNumSide() << endl;
     cout << "Length of the sides of the shape: " << Square_1.getLengthSide() << endl;
-    cout << "Perimeter of the shape: " << Square_1.calculatePerimeterSquarej() << endl;
+    cout << "Perimeter of the shape: " << Square_1.calculatePerimeterSquarej```() << endl;
     cout << "Area of the shape: " << Square_1.calculateAreaSquare() << endl;
 
 
